@@ -2,6 +2,8 @@
 
 ![Demo](demo.gif)
 
+Install packages with `npm install`.
+
 To launch the server
 
 ```bash
